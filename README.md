@@ -47,4 +47,3 @@
 <img align="left" alt="Yusfi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysfii-Dev&show_icons=true&theme=calm" />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ysfii-Dev.Ysfii-Dev)
-![Visitor Count](https://profile-counter.glitch.me/{Ysfii-Dev}/count.svg)
