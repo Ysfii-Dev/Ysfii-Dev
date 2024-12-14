@@ -39,6 +39,7 @@
   <a href="https://www.linkedin.com/in/yusfisyawali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   <a href="https://www.datacamp.com/portfolio/yusfisyawali" target="_blank"><img alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" /></a>  
   <a href="https://www.instagram.com/syawali_ysf_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="mailto:yusfisyawali@gmail.com" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
 
 ## 📊 GitHub Stats
