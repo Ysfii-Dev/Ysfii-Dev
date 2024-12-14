@@ -6,6 +6,7 @@
 - 🌱 **"From nothing to something, however small"**
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ysfii-Dev.Ysfii-Dev)
+![Visitor Count](https://profile-counter.glitch.me/{Ysfii-Dev}/count.svg)
 
 ## ⚡ Technology Stacks
 
@@ -42,9 +43,6 @@
   <a href="https://www.datacamp.com/portfolio/yusfisyawali" target="_blank"><img alt="DataCamp" src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" /></a>  
   <a href="https://www.instagram.com/syawali_ysf_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>  
 </p>
-
-<br />
-<br />
 
 ## 📊 GitHub Stats
 
