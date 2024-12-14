@@ -2,7 +2,7 @@
 
 - 👀 I am a **5th semester Computer Science student at Medan State University** with a **deep interest in data analysis, data processing, and machine learning**. I enjoy exploring data to find patterns and create innovative solutions through predictive modeling and algorithm development.
 - ⚡ With a strong programming foundation, I am experienced in using **Python for data analysis** and skilled in **Java, C++ as well as HTML/CSS, and JavaScript** for web development. I am committed to continuously learning cutting-edge technologies and improving my skills in problem-solving and data-driven analysis.
-- 🔭I am currently focusing on data analysis and the development and deployment of machine learning.
+- 🔭 I am currently focusing on data analysis and the development and deployment of machine learning.
 - 🌱 **"From nothing to something, however small"**
 
 ## ⚡ Technology Stacks
