@@ -5,9 +5,6 @@
 - 🔭I am currently focusing on data analysis and the development and deployment of machine learning.
 - 🌱 **"From nothing to something, however small"**
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ysfii-Dev.Ysfii-Dev)
-![Visitor Count](https://profile-counter.glitch.me/{Ysfii-Dev}/count.svg)
-
 ## ⚡ Technology Stacks
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -48,3 +45,6 @@
 
 <img align="left" alt="Yusfi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ysfii-Dev&show_icons=true&theme=calm" />
 <img align="left" alt="Yusfi's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ysfii-Dev&show_icons=true&theme=calm" />
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ysfii-Dev.Ysfii-Dev)
+![Visitor Count](https://profile-counter.glitch.me/{Ysfii-Dev}/count.svg)
